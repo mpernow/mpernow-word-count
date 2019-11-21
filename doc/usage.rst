@@ -23,7 +23,9 @@ Generate all results:
 Snakemake
 ---------
 
-Write me ...
+::
+
+  $ SnakeMake
 
 
 Where to find the results
